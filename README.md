@@ -1,2 +1,2 @@
-First website to test html coding proficencies. 
+First website to test html coding proficiencies. 
 
